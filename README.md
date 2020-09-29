@@ -1,2 +1,2 @@
 # Visualising-HDB-Resale-Prices
-Learning Python with the use of public datasets
+Learning Python with the public datasets
